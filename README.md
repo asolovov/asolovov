@@ -12,13 +12,13 @@
 
 ### Languages and Tools:
 
-|Tool|Framework|Experience|Level|
-|:--------|:--------|:---------|:---------|
-|Python|Django, Jupyter Notebook|Data analysis on Pandas, plots on Seaborn and Pyplot, web applications on Django|Middle|
-|SQL|Postgres, SQL-lite|Standard queries|Junior|
+|Tool|Framework|Experience|
+|:--------|:--------|:---------|
+|Python|Django, Jupyter Notebook|Data analysis on Pandas, plots on Seaborn and Pyplot, web applications on Django|
+|SQL|Postgres, SQL-lite|Standard queries|
 |BI|Tableau|Filters, Dashboards, Presentations|Junior+|
-|Google Workspace|Google script|Automations for google sheets and work with API|Middle+|
-|Other|Git, Pycharm, Google sheets|Prototypes of automated systems on google sheets|Senior for GS|
+|Google Workspace|Google script|Automations for google sheets and work with API|
+|Other|Git, Pycharm, Google sheets|Prototypes of automated systems on google sheets|
 
 
 [telegram]: https://t.me/SigurdRus
