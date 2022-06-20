@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrei Solovov 👋
 ### [Contact me](https://t.me/SigurdRus) [<img align="left" alt="asolovov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 ### DA portfolio EN* / [RU](https://github.com/asolovov/asolovov_portfolio/blob/main/README.md)
-\* cooming soon 📆
+\* coming soon 📆
 
 ## My main interests are Data Analysis, Data-Driven philosophy and FP&A methods
 
