@@ -1,13 +1,14 @@
 ### Hi there, I'm Andrei Solovov 👋
-### Contact me [<img align="left" alt="asolovov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-### [DA portfolio](https://github.com/asolovov/asolovov_portfolio/blob/main/README.md)
+### [Contact me](https://t.me/SigurdRus) [<img align="left" alt="asolovov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+### DA portfolio EN* / [RU](https://github.com/asolovov/asolovov_portfolio/blob/main/README.md)
+\* cooming soon 📆
 
 ## My main interests are Data Analysis, Data-Driven philosophy and FP&A methods
 
 - ⚡ Working on web3 projects as a manager
 - 😄 Making django apps for myself
 - 🔭 Studying data analysis
-- 🌱 Legacy: six years of experience as a financial director and FP&A manager in start-ups and medium-sized businesses
+- 📈 Legacy: six years of experience as a financial director and FP&A manager in start-ups and medium-sized businesses
 - 🤔 Dreaming to be a part of a big DA/DS project one day 
 
 
