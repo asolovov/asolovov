@@ -18,7 +18,7 @@
 |Tool|Framework|Experience|
 |:--------|:--------|:---------|
 |Python|Django, Jupyter Notebook|Data analysis on Pandas, plots on Seaborn and Pyplot, web applications on Django|
-|SQL|Postgres, SQL-lite|Standard queries|
+|SQL|Postgres, SQL-lite|Standard queries, window functions|
 |BI|Tableau|Filters, Dashboards, Presentations|Junior+|
 |Google Workspace|Google script|Automations for google sheets and work with API|
 |Other|Git, Pycharm, Google sheets|Prototypes of automated systems on google sheets|
