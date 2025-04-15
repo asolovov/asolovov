@@ -1,21 +1,58 @@
-### Hi there, I'm Andrei Solovov 👋 and I am a blockchain developer
+### Hi there, I'm Andrei Solovov 👋
 
-# 💫 About Me:
-Hi, I’m Andrei 👋<br><br>I’m a passionate blockchain and backend developer with expertise in building decentralized applications (dApps), smart contracts, and scalable backend systems. My focus is on delivering secure, efficient, and highly-performant solutions across the Web3 and fintech spaces.<br><br>🛠️ Tech Stack:<br><br>	•	Blockchain Development: Solidity, Hardhat, Ethers, Web3, OpenZeppelin<br>	•	Backend Engineering: Go, gRPC, REST, WebSockets, Docker, Redis, PostgreSQL<br>	•	Smart Contracts: ERC20, ERC721, ERC1155, Uniswap, Chainlink, and more<br>	•	Frontend: Next.js, TypeScript, Ethers.js<br><br>🔥 What I Do:<br><br>	•	Design and implement smart contract architectures with a focus on security and gas optimization<br>	•	Build microservice architectures with Go, focusing on scalability and low-latency systems<br>	•	Lead cross-functional teams, manage client communications, and ensure smooth project delivery<br>	•	Develop prototypes and production-grade decentralized applications<br><br>🚀 Always learning and pushing the boundaries of decentralized technology!<br><br>Feel free to explore my repositories and reach out for collaboration or discussions around blockchain, smart contracts, and backend systems!<br><br>This intro is clean, to the point, and showcases your key strengths while inviting collaboration, which is ideal for a GitHub profile. Let me know if you’d like further refinements!
+**Blockchain Lead | Back-End Developer | Remote-Only**
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrey-solovov-bb665884) 
+### About Me
 
+I am a seasoned Blockchain Lead and Back-End Developer with experience in:
+- **Smart Contract Development (Solidity, EVM-based architectures)**
+- **API & Microservices (REST, gRPC, JSON-RPC, WS)**
+- **zk-Proof, Account Abstraction, Staking Mechanisms**
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asolovov&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asolovov&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asolovov&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I love solving complex problems in a decentralized context and helping teams deliver scalable, high-performance solutions.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asolovov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Tech Stack
+
+- **Languages & Frameworks**: Go, Solidity, TypeScript, Hardhat, Next.js, ethers.js, go-ethereum, go-iden3, snark-js  
+- **Protocols**: REST, JSON-RPC, gRPC, gRPC Streams, WebSockets  
+- **Infrastructure**: Docker, Docker Compose, Git, CI/CD  
+- **Databases & Search**: PostgreSQL, MSSQL, ElasticSearch  
+
+---
+
+### Projects & Experience
+
+**[Gateway FM](https://gateway.fm/) – Blockchain Dev Lead**  
+- Managed design and development for cross-chain oracles, data providers, and core smart contract protocols.  
+- Implemented oracles, and custom L2 solutions for.
+
+**[Uddug](https://uddug.com/) – Solidity Developer**  
+- Architected and deployed DeFi and NFT solutions.  
+- Led the DeFi payment project, building out core contracts and backend logic.  
+- Created custom ERC-721 tokens, staking, and NFT sale logic.
+
+**Company (NDA) – Back-End Developer**  
+- Developed and maintained gRPC microservices, ensuring robust QA and testing coverage.
+
+---
+
+### Education
+- **MBA**, IBS Moscow (2019 – 2021)  
+- **Specialist in Finance**, IILE Moscow (2008 – 2013)
+
+---
+
+### Contact
+- **Email**: [andre.solovov@gmail.com](mailto:andre.solovov@gmail.com)  
+- **LinkedIn**: [Andrei Solovov](https://www.linkedin.com/in/andrey-solovov-bb665884/)  
+- **Telegram**: [@SigurdRus](https://t.me/SigurdRus)
+
+---
+
+> **Open to Remote Opportunities** in Blockchain or Back-End development. 
+
+Feel free to reach out if you’d like to collaborate!
